@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "21036619767",
+    "firebase_url": "https://arena2020-6b05f.firebaseio.com",
+    "project_id": "arena2020-6b05f",
+    "storage_bucket": "arena2020-6b05f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21036619767:android:9daeec79e2b9eed00dc0f2",
+        "android_client_info": {
+          "package_name": "com.example.arena2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21036619767-68iok26mk1j2hbtkf5r3gork2sn14pfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arena2020",
+            "certificate_hash": "8481498d744f894a6dbe670ac530e382491ef038"
+          }
+        },
+        {
+          "client_id": "21036619767-79e8m0ph3ttbg6nvrs690m5uggqt9mia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arena2020",
+            "certificate_hash": "2ab307cdc61376aa1e0d246082a5149a1b508215"
+          }
+        },
+        {
+          "client_id": "21036619767-pbm51aa14grq1t1vn3vriekqi5h8h1lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNYfyI1b4gOhW8Eu5hRMg6m3TVx5ySURk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21036619767-pbm51aa14grq1t1vn3vriekqi5h8h1lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21036619767:android:6d21644f68418a360dc0f2",
+        "android_client_info": {
+          "package_name": "com.example.arena2020helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21036619767-3pg8ct5utmft1k0b30g4rd62rt45bj6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arena2020helper",
+            "certificate_hash": "2ab307cdc61376aa1e0d246082a5149a1b508215"
+          }
+        },
+        {
+          "client_id": "21036619767-pbm51aa14grq1t1vn3vriekqi5h8h1lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNYfyI1b4gOhW8Eu5hRMg6m3TVx5ySURk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21036619767-pbm51aa14grq1t1vn3vriekqi5h8h1lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

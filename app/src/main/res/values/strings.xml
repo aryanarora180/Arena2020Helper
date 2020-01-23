@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Arena 2020 Helper</string>
+    <string name="add_announcement">Add announcement</string>
+    <string name="update_live_scores">Update live scores</string>
+    <string name="add_sports_event">Add sports event</string>
+
+    <string name="add_title">Add title</string>
+    <string name="add_details">Add details</string>
+
+    <string name="team_a_name">Team A name</string>
+    <string name="team_b_name">Team B name</string>
+    <string name="team_a_score">Team A score</string>
+    <string name="team_b_score">Team B score</string>
+    <string name="date_and_time">Date and time</string>
+    <string name="date_and_time_helper">dd/mm/yy hh:mm</string>
+
+    <string name="match_status_scheduled">Scheduled</string>
+    <string name="match_status_live">Live</string>
+    <string name="match_status_complete">Complete</string>
+
+    <string name="select_sport_add_event">Select sport to add event</string>
+    <string name="select_sport_update_score">Select sport to update scores</string>
+
+
+    <string name="add_announcement_success">Announcement successfully added</string>
+    <string name="add_announcement_failed">Adding announcement failed. Please try again</string>
+    <string name="add_event_success">Sports event successfully added</string>
+    <string name="add_event_failed">Adding sports event failed. Please try again</string>
+
+    <string name="firebase_collection_announcements">Announcements</string>
+    <string name="firebase_collection_announcements_field_date">date</string>
+    <string name="firebase_collection_announcements_field_name">name</string>
+    <string name="firebase_collection_announcements_field_desc">description</string>
+
+    <string name="firebase_collection_schedule">SportsSchedule</string>
+    <string name="firebase_collection_schedule_field_date">dateAndTime</string>
+    <string name="firebase_collection_schedule_field_sportCode">sportCode</string>
+    <string name="firebase_collection_schedule_field_matchStatus">matchStatus</string>
+    <string name="firebase_collection_schedule_field_name_team_a">teamA</string>
+    <string name="firebase_collection_schedule_field_name_team_b">teamB</string>
+    <string name="firebase_collection_schedule_field_score_team_a">teamAScore</string>
+    <string name="firebase_collection_schedule_field_score_team_b">teamBScore</string>
+    <string name="firebase_collection_schedule_field_batFirst">batFirst</string>
+    <string name="firebase_collection_schedule_field_score_currentInnings">currentInnings</string>
+    <string name="firebase_collection_schedule_field_overs_team_a">teamAOvers</string>
+    <string name="firebase_collection_schedule_field_overs_team_b">teamBOvers</string>
+    <string name="firebase_collection_schedule_field_wickets_team_a">teamAWickets</string>
+    <string name="firebase_collection_schedule_field_wickets_team_b">teamBWickets</string>
+    <string name="firebase_collection_schedule_field_currentSet">currentSet</string>
+    <string name="firebase_collection_schedule_field_setOneWinner">setOneWinner</string>
+    <string name="firebase_collection_schedule_field_setTwoWinner">setTwoWinner</string>
+    <string name="firebase_collection_schedule_field_setThreeWinner">setThreeWinner</string>
+    <string name="firebase_collection_schedule_field_setOneScore">setOneScore</string>
+    <string name="firebase_collection_schedule_field_setTwoScore">setTwoScore</string>
+    <string name="firebase_collection_schedule_field_setThreeScore">setThreeScore</string>
+    <string name="firebase_collection_schedule_field_winner">winner</string>
+
+</resources>

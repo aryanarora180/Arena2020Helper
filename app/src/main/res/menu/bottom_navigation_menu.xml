@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_announcement_menu_item"
+        android:title="@string/add_announcement"
+        android:icon="@drawable/outline_announcement_24"/>
+
+    <item
+        android:id="@+id/update_live_scores_menu_item"
+        android:title="@string/update_live_scores"
+        android:icon="@drawable/outline_play_arrow_24"/>
+
+    <item
+        android:id="@+id/add_sports_event"
+        android:title="@string/add_sports_event"
+        android:icon="@drawable/outline_sports_rugby_24"/>
+
+</menu>
